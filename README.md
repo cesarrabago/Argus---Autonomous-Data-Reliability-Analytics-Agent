@@ -68,7 +68,7 @@ Multi-channel synthetic data  →  dbt (staging → marts + tests)  →  BigQuer
 
 ## 📐 Architecture
 
-![Argus Architecture](./Img_Arq.png)
+![Argus Architecture](./ARGUS_.png)
 <sub>*(replace `Img_Arq.png` with your own diagram before publishing — no real image was generated during the build; the text diagram below is the current source of truth)*</sub>
 
 Three layers, each with a single responsibility:
